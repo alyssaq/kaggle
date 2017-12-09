@@ -1,0 +1,15 @@
+numpy
+scipy
+scikit-learn
+pandas
+seaborn
+matplotlib
+tensorflow
+keras
+xgboost
+h5py
+Pillow
+jupyter
+nose
+Flask
+requests
