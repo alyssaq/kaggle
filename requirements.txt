@@ -8,6 +8,7 @@ tensorflow
 keras
 xgboost
 h5py
+imageio
 Pillow
 jupyter
 nose
